@@ -1,2 +1,2 @@
-# app-ARNDevTool
+# ARNDevTool
 Test App for Code push Features
