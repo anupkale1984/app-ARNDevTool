@@ -3,6 +3,8 @@
   "rules": {
     "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
     "react/prefer-stateless-function": 0,
+    "no-unused-vars": 0,
+    "arrow-body-style": 0,
     "jsx-a11y/no-static-element-interactions": 0,
     "class-methods-use-this": 0,
     "prefer-stateless-function": 0,
