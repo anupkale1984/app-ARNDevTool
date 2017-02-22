@@ -1,2 +1,2 @@
 # ARNDevTool
-Test App for Code push Features
+Test App for Code push Features sample
